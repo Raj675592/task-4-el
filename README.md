@@ -10,6 +10,8 @@ This is a responsive single-page HTML5 website created using:
 - Custom JavaScript for interactivity and mobile only platform
 - Responsive grid and layout for all screen sizes
 
+  ## live demo : https://superlative-cupcake-4ed258.netlify.app/
+
 The site includes key sections like:
 - Hero Section
 - About Company
