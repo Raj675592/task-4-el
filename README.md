@@ -12,6 +12,10 @@ This is a responsive single-page HTML5 website created using:
 
   ## live demo : https://superlative-cupcake-4ed258.netlify.app/
 
+  ### or
+
+  ## link : 
+
 The site includes key sections like:
 - Hero Section
 - About Company
